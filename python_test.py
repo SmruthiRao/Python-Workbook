@@ -1,2 +1,2 @@
-import sys
-print(sys.version)
+message = "Hello Python world!"
+print(message)
